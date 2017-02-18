@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<theme version="2.0">
+    <name>Blue</name>
+    <background type="solid">
+        <color>#00007f</color>
+    </background>
+    <font type="main">
+        <name>Arial</name>
+        <color>#ffff00</color>
+        <size>50</size>
+        <bold>True</bold>
+        <italics>False</italics>
+        <line_adjustment>0</line_adjustment>
+        <location height="691" override="False" width="1346" x="10" y="0"/>
+        <shadow shadowColor="#000000" shadowSize="10">True</shadow>
+        <outline outlineColor="#000000" outlineSize="5">True</outline>
+    </font>
+    <font type="footer">
+        <name>Arial</name>
+        <color>#FFFFFF</color>
+        <size>0</size>
+        <bold>False</bold>
+        <italics>False</italics>
+        <line_adjustment>0</line_adjustment>
+        <location height="76" override="False" width="1346" x="10" y="691"/>
+        <shadow shadowColor="#000000" shadowSize="5">True</shadow>
+        <outline outlineColor="#000000" outlineSize="2">False</outline>
+    </font>
+    <display>
+        <horizontalAlign>2</horizontalAlign>
+        <verticalAlign>0</verticalAlign>
+        <slideTransition>False</slideTransition>
+    </display>
+</theme>

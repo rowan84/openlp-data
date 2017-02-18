@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<theme version="2.0">
+    <name>Bible 4.3</name>
+    <background type="image">
+        <filename>thy_word.jpg</filename>
+        <borderColor>#000000</borderColor>
+    </background>
+    <font type="main">
+        <name>Arial</name>
+        <color>#ffffff</color>
+        <size>50</size>
+        <bold>True</bold>
+        <italics>False</italics>
+        <line_adjustment>0</line_adjustment>
+        <location height="810" override="False" width="1580" x="10" y="0"/>
+        <shadow shadowColor="#000000" shadowSize="10">True</shadow>
+        <outline outlineColor="#000000" outlineSize="2">False</outline>
+    </font>
+    <font type="footer">
+        <name>Arial</name>
+        <color>#FFFFFF</color>
+        <size>0</size>
+        <bold>False</bold>
+        <italics>False</italics>
+        <line_adjustment>0</line_adjustment>
+        <location height="180" override="False" width="1580" x="10" y="810"/>
+        <shadow shadowColor="#000000" shadowSize="5">True</shadow>
+        <outline outlineColor="#000000" outlineSize="2">False</outline>
+    </font>
+    <display>
+        <horizontalAlign>2</horizontalAlign>
+        <verticalAlign>1</verticalAlign>
+        <slideTransition>False</slideTransition>
+    </display>
+</theme>
